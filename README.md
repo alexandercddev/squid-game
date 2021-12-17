@@ -1,4 +1,4 @@
-# ![Squid Game](https://raw.githubusercontent.com/alexandercds/squid-game/master/src/assets/images/preview.jpg)
+# ![Squid Game](https://raw.githubusercontent.com/alexandercddev/squid-game/master/src/assets/images/preview.jpg)
 # Squid Game
 <table>
 <tr>
